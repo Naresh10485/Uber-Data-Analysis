@@ -148,7 +148,7 @@ px.box(x= 'dispatching_base_number',
       data_frame= uber_foil)
 ```
 
-[Active base number boxplot](/boxplot.png)
+![Active base number boxplot](/boxplot.png)
 
 * Also, we can perform this analysis using
 ```python
@@ -157,7 +157,7 @@ px.violin(x= 'dispatching_base_number',
       data_frame= uber_foil)
 ```
 
-[Active base number violin-plot](/violin.png)
+![Active base number violin-plot](/violin.png)
 
 * **Insights-**
     - Thus, Base number `B02764` is mostlt active.
